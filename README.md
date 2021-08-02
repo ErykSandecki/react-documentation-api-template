@@ -1,4 +1,4 @@
-# Documentation API
+# React Documentation API Template
 
 This project contains list of endpoint & this documentation can edit.
 
@@ -9,5 +9,3 @@ This project contains list of endpoint & this documentation can edit.
 \`someText\`- enable to wrap text in block.
 
 `!someText!` - enable to ignore some variables or parser functions.
-
-# react-documentation-api-template-template

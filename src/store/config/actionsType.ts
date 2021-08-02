@@ -1,0 +1,7 @@
+export const REDUCER_KEY = 'config';
+
+export enum EConfigActionsType {
+  CONFIG_SUCCESS = 'CONFIG_SUCCESS',
+  UPDATE_CONFIG = 'UPDATE_CONFIG',
+  UPDATE_CONFIG_FINISHED = 'UPDATE_CONFIG_FINISHED',
+}

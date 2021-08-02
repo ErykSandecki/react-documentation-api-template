@@ -1,0 +1,8 @@
+export const REDUCER_KEY = 'groupedEndpoints';
+
+export enum EGroupedEndpointsActionsType {
+  GROUPED_ENDPOINTS_SUCCESS = 'GROUPED_ENDPOINTS_SUCCESS',
+  ADD_NEW_GROUP = 'ADD_NEW_GROUP',
+  ADD_NEW_ENDPOINT = 'ADD_NEW_ENDPOINT',
+  UPDATE_ENDPOINT = 'UPDATE_ENDPOINT',
+}
